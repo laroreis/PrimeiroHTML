@@ -1,0 +1,43 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://i.ibb.co/mT9XHqY/LARO.png');
+  background-color: #FFEB99;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+h2{
+  font-family: 'Roboto Mono',monospace;
+  min-height: 20px;
+  text-align: center left;
+  color: #C7190E 
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #C7190E;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #C7190E;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 100px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: left;
+  top: 10px;
+  right:30px;
+}
